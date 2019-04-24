@@ -14,7 +14,7 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 
 import com.applicationname.qa.utilities.TestUtil;
 import com.applicationname.qa.utilities.WebEventListener;
-
+// This is the base class which contains common code
 public class TestBase {
 
 	public static WebDriver driver;
