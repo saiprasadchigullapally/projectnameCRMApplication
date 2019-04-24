@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Free CRM Application Test Automation Test Suite ">
+	<test name=" Free CRM Application Test Cases">
+		<classes>
+			<class name="com.applicationname.qa.testcases.LoginPageTest">
+			</class>
+			<class name="com.applicationname.qa.testcases.HomePageTest">
+			</class>
+			<!-- In Real Testing : All +ve and -ve functioinal and non fuctional test cases -->
+			<!-- In smoke testing : Few +functioinal test cases -->
+			<!-- In retest testing :Previously failed test cases in failed module -->
+			<!-- In sanity testing : Previously passed testcases in failed module -->
+			<!-- In regresion testing : Previously passed testcases in other module -->
+			<!-- In Final regresion testing : Previously passed testcases in other module -->
+			<!-- In further real testing : All +ve and -ve functioinal and non fuctional test cases -->
+
+		</classes>
+
+	</test>
+	</suite>
